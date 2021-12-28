@@ -1,7 +1,11 @@
 ## Buenas! Me chamo Murilo Weber!
-- 📚 Aprendendo Node.JS na Let's Code
-- 🎓 Iniciando curso superior de tecnologia em Ciência de Dados
+
 - 💻 Atuo como Analista Sênior de Implantação (varejo Farma) na Stone S.A
+- 🎓 Cursando superior de tecnologia em Ciência de Dados na Unopar
+- 📚 Aprendendo Python e Node.JS 
+- 😉 Pronomes: dele/ele
+
+**Linguagens e Tools 🚀**
 
 <div align="center">
   <a href="https://github.com/muriloWeber">
@@ -10,7 +14,11 @@
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Murilo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Murilo-NodeJs" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Murilo-Git" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Murilo-GitHub" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img  align="center" alt="Murilo-VSCode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 </div>
 
  ##
