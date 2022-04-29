@@ -1,6 +1,6 @@
 ## Buenas! Me chamo Murilo Weber!
 
-- 💻 Atuo como Analista Sênior de Implantação (varejo Farma) na Stone S.A
+- 💻 Atuo como Analista III de Implantação
 - 🎓 Cursando superior de tecnologia em Ciência de Dados na Unopar
 - 📚 Aprendendo Python e Node.JS 
 - 😉 Pronomes: dele/ele
