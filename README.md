@@ -2,7 +2,7 @@
 
 - 💻 Atuo como Analista III de Implantação
 - 🎓 Cursando superior de tecnologia em Ciência de Dados na Unopar
-- 📚 Aprendendo Python e Node.JS 
+- 📚 Estudando Python 
 - 😉 Pronomes: dele/ele
 
 **Linguagens e Tools 🚀**
