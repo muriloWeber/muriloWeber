@@ -2,7 +2,7 @@
 
 - 💻 Atuo como Analista III de Implantação de Sistema de CRM
 - 🎓 Cursando superior de tecnologia em Ciência de Dados na Unopar
-- 📚 Estudando Python 
+- 📚 Python e R
 - 😉 Pronomes: dele/ele
 
 **Linguagens e Tools 🚀**
