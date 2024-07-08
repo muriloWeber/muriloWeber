@@ -1,7 +1,7 @@
 ## Buenas! Me chamo Murilo Weber!
 
-- 💻 Atuo como Analista III de Implantação de Sistema de CRM
-- 🎓 Cursando superior de tecnologia em Ciência de Dados na Unopar
+- 💻 Atuo como Analista Sênior de Implantação de CRM
+- 🎓 Ciêntista de Dados
 - 📚 Python e R
 - 😉 Pronomes: dele/ele
 
