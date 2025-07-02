@@ -1,8 +1,8 @@
 ## Buenas! Me chamo Murilo Weber!
 
 - 💻 Atuo como Analista Sênior de Implantação de CRM
-- 🎓 Ciêntista de Dados
-- 📚 Python e R
+- 🎓 Cientista de Dados
+- 📚 Python
 - 😉 Pronomes: dele/ele
 
 **Linguagens e Tools 🚀**
@@ -14,7 +14,6 @@
   <img align="center" alt="Murilo-NPM" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" />
   <img align="center" alt="Murilo-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
   <img  align="center" alt="Murilo-Jupyter" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
-  <img  align="center" alt="Murilo-R" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" />
   <img  align="center" alt="Murilo-RStudio" height="40" width="50"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" />
   <img  align="center" alt="Murilo-VSCode" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
   <img  align="center" alt="Murilo-MySql" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
