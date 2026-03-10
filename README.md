@@ -3,8 +3,6 @@
 
 <h2 align="left">🗨 Sobre mim:</h2>
 
-**Cientista de Dados & Engenheiro de Machine Learning**
-
 - 💻 Atuo como Analista Sênior de Implantação de CRM na TOTVS CRM
 - 🎓 Cientista de Dados
 - 📚 Python | SQL | Machine Learning | IA | Agentes de IA
@@ -30,7 +28,12 @@ Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **mo
   <img  align="center" alt="Murilo-PostgreSQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img  align="center" alt="Murilo-Jira" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
  
-  
+## 🔥 Projetos em Destaque
+
+### **1. IA Generativa, RAG e Agentes**
+- **[TCRM Copilot: Agente de IA para Inteligência de Negócio e Otimização de Projetos](https://github.com/muriloWeber/crm-copilot-poc)**  
+  O TCRM Copilot é um agente de Inteligência Artificial interno, desenvolvido para atuar como um assistente inteligente e estratégico focado na fase "Durante o Projeto". Seu propósito primordial é revolucionar a forma como interagimos com as informações   do projeto, automatizando tarefas repetitivas e gerando inteligência de negócio acionável, usando **LangChain + LLMs (OpenAI)**.  
+  ✅ Integração com Streamlit para interface rápida e prática.
  
 </div>
 
