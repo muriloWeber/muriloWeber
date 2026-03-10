@@ -1,13 +1,18 @@
-<h1 align="left">Olá! 👋😄 Prazer, Sou o Murilo! </h1>
+<h1 align="left">Olá! 👋 Prazer, Sou o Murilo! </h1>
 <h3 align="left">Este é meu repositório de Análise e Ciência de Dados.</h3>
 
 <h2 align="left">🗨 Sobre mim:</h2>
+
+**Cientista de Dados & Engenheiro de Machine Learning**
 
 - 💻 Atuo como Analista Sênior de Implantação de CRM na TOTVS CRM
 - 🎓 Cientista de Dados
 - 📚 Python | SQL | Machine Learning | IA | Agentes de IA
 - 😉 Pronomes: dele/ele
-- 🚀 Em busca de crescimento e aprendizado constante para potencializar negócios através de dados e Machine Learning.
+- 🚀 Em busca de crescimento e aprendizado constante para potencializar negócios através de dados, Machine Learning e IA.
+
+## 🚀 Minha Missão
+Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **modelos de IA, automação e infraestrutura profissional**, com deploy confiável e fácil manutenção.
 
 <h2 align="left">💻 Tech Stack</h2>
  <div style="display: inline_block"><br>
