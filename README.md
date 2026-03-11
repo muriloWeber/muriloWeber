@@ -9,8 +9,6 @@ Este é meu repositório de Análise e Ciência de Dados.
 - 😉 Pronomes: dele/ele
 - 🚀 Em busca de crescimento e aprendizado constante para potencializar negócios através de dados, Machine Learning e IA.
 
----
-
 ## 🚀 Minha Missão
 Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **modelos de IA, automação e infraestrutura profissional**, com deploy confiável e fácil manutenção.
 
@@ -29,7 +27,7 @@ Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **mo
   <img  align="center" alt="Murilo-MySql" height="60" width="70"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img  align="center" alt="Murilo-PostgreSQL" height="40" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" />
   <img  align="center" alt="Murilo-Jira" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original-wordmark.svg" />
- 
+
 ## 🔥 Projetos em Destaque
 
 ### **1. IA Generativa, RAG e Agentes**
@@ -42,19 +40,13 @@ Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **mo
   Este projeto apresenta uma solução de Machine Learning desenvolvida para prever a probabilidade de uma oportunidade de venda ser perdida em um cenário de vendas B2B complexas e de alto valor agregado.
   ✅ Integração com Streamlit e FastAPI para interface rápida e prática simulando um sistema de CRM.
 
-- **[Projeto de Previsão de Classificação - Churn de Funcionários](https://github.com/muriloWeber/Portfolio_Data_Science/tree/main/projeto_rh)**  
+- **[Projeto de Previsão de Classificação - Churn de Colaboradores](https://github.com/muriloWeber/Portfolio_Data_Science/tree/main/projeto_rh)**  
   Este é um projeto de previsão de classificação desenvolvido para ajudar o Departamento de Recursos Humanos a identificar funcionários propensos a deixar a empresa.
   ✅ Rede Neural Artificial (MLP).
  
 ---  
 
 ## 📊 Estatísticas GitHub
-
-![Murilo's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=diegoribeiro2&show_icons=true&theme=github_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloWeber&layout=compact&theme=dark))
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=muriloWeber&show_icons=true&theme=dark)
-
-
-##
 
 <table align="center">
   <row>
@@ -68,12 +60,14 @@ Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **mo
   </row>
 </table> 
 
---------------
+---
 </div>
   
 <div> 
   <a href="https://instagram.com/murilodesouzaweber" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  	<a href = "mailto:caboeb@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/murilo-de-souza-weber" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+  ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:0099ff,10000:ff66cc&height=150&section=footer)
  
 </div>
