@@ -1,13 +1,15 @@
-<h1 align="left">Olá! 👋 Prazer, Sou o Murilo! </h1>
-<h3 align="left">Este é meu repositório de Análise e Ciência de Dados.</h3>
+# Olá! 👋 Prazer, Sou o Murilo! </h1>
+Este é meu repositório de Análise e Ciência de Dados.
 
-<h2 align="left">🗨 Sobre mim:</h2>
+## 🗨 Sobre mim:
 
 - 💻 Atuo como Analista Sênior de Implantação de CRM na TOTVS CRM
 - 🎓 Cientista de Dados
 - 📚 Python | SQL | Machine Learning | IA | Agentes de IA
 - 😉 Pronomes: dele/ele
 - 🚀 Em busca de crescimento e aprendizado constante para potencializar negócios através de dados, Machine Learning e IA.
+
+---
 
 ## 🚀 Minha Missão
 Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **modelos de IA, automação e infraestrutura profissional**, com deploy confiável e fácil manutenção.
@@ -32,10 +34,25 @@ Criar soluções **ponta a ponta** que resolvam problemas reais, integrando **mo
 
 ### **1. IA Generativa, RAG e Agentes**
 - **[TCRM Copilot: Agente de IA para Inteligência de Negócio e Otimização de Projetos](https://github.com/muriloWeber/crm-copilot-poc)**  
-  O TCRM Copilot é um agente de Inteligência Artificial interno, desenvolvido para atuar como um assistente inteligente e estratégico focado na fase "Durante o Projeto". Seu propósito primordial é revolucionar a forma como interagimos com as informações   do projeto, automatizando tarefas repetitivas e gerando inteligência de negócio acionável, usando **LangChain + LLMs (OpenAI)**.  
+  O TCRM Copilot é um agente de Inteligência Artificial interno, desenvolvido para atuar como um assistente inteligente e estratégico focado na fase "Durante o Projeto". Seu propósito primordial é revolucionar a forma como interagimos com as informações   do projeto, automatizando tarefas repetitivas e gerando inteligência de negócio acionável, usando **LangChain + LangGraph + RAG + LLM (OpenAI)**.  
   ✅ Integração com Streamlit para interface rápida e prática.
+
+### **2. Machine Learning Tradicional & Análise**
+- **[Previsão de Perda de Oportunidade – CRM](https://github.com/muriloWeber/crm_opportunity_loss_prediction)**  
+  Este projeto apresenta uma solução de Machine Learning desenvolvida para prever a probabilidade de uma oportunidade de venda ser perdida em um cenário de vendas B2B complexas e de alto valor agregado.
+  ✅ Integração com Streamlit e FastAPI para interface rápida e prática simulando um sistema de CRM.
+
+- **[Projeto de Previsão de Classificação - Churn de Funcionários](https://github.com/muriloWeber/Portfolio_Data_Science/tree/main/projeto_rh)**  
+  Este é um projeto de previsão de classificação desenvolvido para ajudar o Departamento de Recursos Humanos a identificar funcionários propensos a deixar a empresa.
+  ✅ Rede Neural Artificial (MLP).
  
-</div>
+---  
+
+## 📊 Estatísticas GitHub
+
+![Murilo's GitHub Stats]([https://github-readme-stats.vercel.app/api?username=diegoribeiro2&show_icons=true&theme=github_dark](https://github-readme-stats.vercel.app/api/top-langs/?username=muriloWeber&layout=compact&theme=dark))
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=muriloWeber&show_icons=true&theme=dark)
+
 
 ##
 
